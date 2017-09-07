@@ -10,6 +10,8 @@
 
 /*	Nome: Tiago Trocoli
     Email: tiago1trocoli@gmail.com
+    
+    Description: The program finds the greatest set of anagram in a text file using the Fundamental Theorem of Arithmetic.
 */
 
 
