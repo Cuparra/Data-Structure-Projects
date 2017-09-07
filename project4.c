@@ -10,6 +10,8 @@
 
 /*	Name:  Tiago Trocoli	
 	email: tiago1trocoli@gmail.com
+	
+	Description: The program finds the best protein sequence alignment using dynamic programming.
 */
 
 
