@@ -7,8 +7,10 @@
 #define EMPTY   -1
 #define AND     &&
 
-/* Nome:  Tiago Moreira Trocoli da Cunha  
+/* Nome:  Tiago Trocoli  
    Email: tiago1trocoli@gmail.com
+   
+   Description: Dynamic program to find all all shortest path beetwen to cells of a given matrix.
 */
 
 
