@@ -14,6 +14,9 @@
 
 /*	Nome: Tiago Trocoli	
     Email: tiago1trocoli@gmail.com
+    
+    Description: Program to compress ASCII text files using huffman code into huff files.
+    Exemple: dictionary.txt
 */
 
 
