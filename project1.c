@@ -7,16 +7,16 @@
 #define EMPTY   -1
 #define AND     &&
 
-/* Nome:  Tiago Trocoli  
+/* Nome:  Tiago Trocoli
    Email: tiago1trocoli@gmail.com
-   
+
    Description: Dynamic program to find all all shortest path beetwen to cells of a given matrix.
 */
 
 
 /*It was assumed that Thomas only walks left, right, down and up.*/
 
-/* Maze data structure*/
+/* Maze data structure */
 
 int s1, s2; /* Coordinates of the exit. */
 int t1, t2; /* Coordinates of Thomas. */
