@@ -10,7 +10,7 @@
 /* Nome:  Tiago Trocoli
    Email: tiago1trocoli@gmail.com
 
-   Description: Dynamic program to find all all shortest path beetwen to cells of a given matrix.
+   Description: Dynamic program to find all shortest path beetwen cells of a given matrix.
 */
 
 
