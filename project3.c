@@ -28,7 +28,6 @@
 
     Note1: The program was tested in Ubuntu 16.04.
     Nate2: dicionario.txt takes up 2.7MB, when compressed takes up 1.5MB.
-    Note3: The algorithm is a bit difficult to understand, especially because it deals with bits using bitwise operators...
 */
 
 /*
